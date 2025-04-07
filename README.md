@@ -19,7 +19,7 @@ This is my personal portfolio website. It introduces who I am, shares moments wi
 - JavaScript (basic interactivity)
 
 ## 🔗 Live Preview
-[View MyWebProject on GitHub Pages](https://yourusername.github.io/mywebproject/)
+[View MyWebProject on GitHub Pages](https://sesiliot.github.io/MyWebProject/)
 
 ## 📁 Project Structure
 project-folder/ ├── index.html
