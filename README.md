@@ -19,7 +19,7 @@ This is my personal portfolio website. It introduces who I am, shares moments wi
 - JavaScript (basic interactivity)
 
 ## 🔗 Live Preview
-_Include your Netlify / GitHub Pages / other hosted link here_
+[View MyWebProject on GitHub Pages](https://yourusername.github.io/mywebproject/)
 
 ## 📁 Project Structure
 project-folder/ ├── index.html
